@@ -1,0 +1,5 @@
+XuberSuiteWebClient_4.3.2465.0_mwhitaker,X-Frame-Options,SAMEORIGIN
+XuberSuiteWebClient_4.3.2465.0_mwhitaker,X-XSS-Protection,1
+XuberSuiteWebClient_4.3.2465.0_mwhitaker,Strict-Transport-Security,max-age=31536000; includeSubDomains
+XuberSuiteWebClient_4.3.2465.0_mwhitaker,X-Content-Type-Options,nosniff
+XuberSuiteWebClient_4.3.2465.0_mwhitaker,Content-Security-Policy,default-src 'self' ; script-src 'self' 'unsafe-inline' 'unsafe-eval' ; style-src 'self' 'unsafe-inline' ; img-src 'self' data: ; font-src 'self' ; connect-src 'self' wss://localhost ; media-src 'self' ; object-src 'self' ; child-src 'self' ; frame-ancestors 'self' ; form-action 'self' ; upgrade-insecure-requests; block-all-mixed-content; reflected-xss block; referrer no-referrer;
